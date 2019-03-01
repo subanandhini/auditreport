@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: AuditReportDetail
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: nkuppusamy
+Implementation-Vendor-Id: com.paypal.erc.grc.common.dal.models.issue
+Build-Jdk: 1.8.0_191
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/AuditReportDetail
+Created-By: Maven Integration for Eclipse
+
